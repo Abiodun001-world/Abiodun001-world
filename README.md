@@ -13,7 +13,7 @@ I'm learning How to build an operating system and am open to new opportunities.
 * ⚡ Professional Tennis Player.
 
 ### Skills
-
+-----------------
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -54,11 +54,11 @@ I'm learning How to build an operating system and am open to new opportunities.
 
 
 ### Socials
-
+-----------------
 <p align="left"> <a href="https://www.dev.to/Abiodun Adekunlehttps://dev.to/abiodun001world" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/Abiodun001-world" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://https://hashnode.com/@Abiodun001.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Https://linkedin.com/in/abiodun-adekunle-5407a6226" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/https://www.polywork.com/abiodun001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/https://medium.com/@adekunleabiodun354" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18880238/adekunle-abiodun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Abiodun0019" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/Abiodun006" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
+-----------------
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Abiodun001-world"><img src="https://github-readme-stats.vercel.app/api?username=Abiodun001-world&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=6366f1&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="Abiodun001-world's GitHub stats" /></a>
@@ -70,5 +70,5 @@ I'm learning How to build an operating system and am open to new opportunities.
 <a href="https://github.com/Abiodun001-world" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abiodun001-world&langs_count=10&title_color=facc15&text_color=6366f1&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
-
+-----------------
 <a href="https://www.buymeacoffee.com/adekunleabiodun"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
