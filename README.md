@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adekunle Abiodun
+<!--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adekunle Abiodun-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B94C3&width=435&lines=Hi+%F0%9F%91%8B+My+name+is+Adekunle+Abiodun;The+Future+%F0%9F%A4%94+.)](https://git.io/typing-svg)
 ========================================================================================================================================
 
 Software Engineer
