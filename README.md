@@ -1,5 +1,5 @@
 <!--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adekunle Abiodun-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=000000C8&width=435&lines=Hi+%F0%9F%91%8B+My+name+is+Adekunle+Abiodun;futureBelongToTheMachines%2FRobots)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=1D1D1DDC&width=435&lines=Hi+%F0%9F%91%8B+My+name+is+Adekunle+Abiodun;futureBelongsToTheMachines%2FRobots)](https://git.io/typing-svg)
 ========================================================================================================================================
 
 Software Engineer
