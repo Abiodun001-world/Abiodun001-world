@@ -12,6 +12,7 @@ I'm learning How to build an operating system and am open to new opportunities.
 * 🧠  I'm learning How to build an operating system.
 * 🤝  I'm open to collaborating on Interesting projects and open source code.
 * ⚡ Professional Tennis Player turned to a software engineer.
+* 💻✨  Represents the improved code quality and efficiency achieved through pair programming.
 
 
 ### Socials
