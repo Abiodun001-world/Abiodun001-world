@@ -6,11 +6,9 @@ Software Engineer
 -----------------
 
 I'm learning How to build an operating system and am open to new opportunities.
-
-* 🌍  I'm currently based in Nigeria.
 * ✉️  You can contact me at [adekunleabiodun354@gmail.com](mailto:adekunleabiodun354@gmail.com).
 * 🧠  I'm learning How to build an operating system.
-* 🤝  I'm open to collaborating on Interesting projects and open source code.
+* 🤝  I'm open to collaborating on Interesting projects and open-source code.
 * ⚡ Professional Tennis Player turned to a software engineer.
 * 💻✨  Represents the improved code quality and efficiency achieved through pair programming.
 
