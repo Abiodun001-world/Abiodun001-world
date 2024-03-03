@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=apple+font&pause=1000&color=000055&background=FFFFFFDC&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+;I+am+Abiodun+Adekunle%2C;Self-education+is+a+self-discovery.)](https://git.io/typing-svg)
 ========================================================================================================================================
 
-Software Engineer
+Software Development Engineer
 -----------------
 
 I'm learning How to build an operating system and am open to new opportunities.
