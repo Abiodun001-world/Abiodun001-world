@@ -5,9 +5,9 @@
 Software Development Engineer
 -----------------
 
-I'm learning How to build an operating system and am open to new opportunities.
+I'm learning to build an operating system and am open to new opportunities.
 * ✉️  You can contact me at [adekunleabiodun354@gmail.com](mailto:adekunleabiodun354@gmail.com).
-* 🧠  I'm learning How to build an operating system and leave a positive impact for eternity.
+* 🧠  I'm learning to build an operating system and leave a positive impact for eternity.
 * 🤝  I'm open to collaborating on Interesting projects and open-source code.
 * ⚡ Professional Tennis Player turned to a software development engineer.
 * 💻✨  Represents the improved code quality and efficiency achieved through pair programming.
