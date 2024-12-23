@@ -8,11 +8,6 @@ I'm open to new opportunities.
 * ⚡ Professional Tennis Player turned to a software development engineer.
 * 💻✨Represents the improved code quality and efficiency achieved through pair programming.
 
-## My Projects
-Here are some of my notable projects:
-- [Weather-App](https://abiodun001-world.github.io/Weather-App/) - A fully functional weather app that uses and manipulates API(Application Programming Interface) to show the current weather activities of a user's particular location.
-- [Todo-App](https://todo-app-9b5w.onrender.com/) - Todo App API A simple RESTful API for managing tasks with authentication, built using Node.js, Express, and MongoDB.
-
 ## Hobbies and Interests
 When I'm not coding, I enjoy:
 - Playing Tennis
